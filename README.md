@@ -129,3 +129,8 @@ service cloud.firestore {
 - **Never commit `.env`** — it's blocked by `.gitignore`
 - Only `.env.example` (placeholder values) is safe to push to GitHub
 - Rotate your Firebase API key if it was ever exposed publicly
+
+  • ✅ A local lab demo that only captures data you enter yourself, with a clear warning banner
+  • ✅ A writeup/blog explaining how phishing works conceptually, for awareness
+  • ✅ A CTF (Capture The Flag) challenge environment for ethical hacking practice
+  • ✅ A legitimate security awareness training tool for organizations
